@@ -10,7 +10,7 @@ This app adds the [Alexa Certify Code](https://support.alexa.com/hc/en-us/sectio
 
 
 ```
-vtex install vtex.alexa-certify@1.x
+vtex install vtex.alexa-certify-code@1.x
 ```
 
 Next, open the app settings on your admin and fill the form with your Alexa Account and Domain.
